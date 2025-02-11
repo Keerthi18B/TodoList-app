@@ -1,2 +1,2 @@
 # TodoList-app
-creating an app using android studio using java as language 
+creating a todolistapp using android studio using java as language 
